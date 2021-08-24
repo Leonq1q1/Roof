@@ -610,7 +610,7 @@ body {
   .intro__span {
     width: 71%;
     font-size: 30px;
-    color: black;
+    color: white;
     text-align: center;
     padding-top: 110px;
     margin: 0 auto;
@@ -651,7 +651,7 @@ body {
     padding: 0 20px 0 53px;
   }
   .roofs__link {
-    font-weight: 200;
+    font-weight: 500;
     font-size: 16px;
   }
   .roofs__list {
@@ -666,6 +666,7 @@ body {
   }
   .whyWe__span1 {
     padding-bottom: 0;
+    font-size: 14px;
   }
   .whyWe__span {
     padding: 34px 0 0 15px;
@@ -885,7 +886,6 @@ body {
     color: white;
     text-align: center;
     padding: 91px 0px 46px 0px;
-    color: black;
   }
   .intro__wrapper {
     padding: 0;
@@ -926,7 +926,7 @@ body {
     padding: 0 20px 0 53px;
   }
   .roofs__link {
-    font-weight: 200;
+    font-weight: 500;
     font-size: 16px;
   }
   .roofs__list {
@@ -961,13 +961,14 @@ body {
   }
   .whyWe__png1 {
     width: 70px;
-    padding: 0 0 9px 13px;
+    padding: 0 0 9px 13pxs;
   }
   .whyWe__items {
     font-size: 10px;
   }
   .whyWe__span1 {
     padding-bottom: 46px;
+    font-size: 13px;
   }
   .form1 {
     width: 100%;
@@ -1122,7 +1123,6 @@ body {
     color: white;
     text-align: center;
     padding: 91px 0px 46px 0px;
-    color: black;
   }
   .intro__button-wrapper {
     padding: 88px 0 85px 0;
@@ -1166,6 +1166,8 @@ body {
   .whyWe {
     width: 100%;
     padding-bottom: 68px;
+    background-position: 50% 50%;
+    background-size: cover;
   }
   .whyWe__span {
     padding: 28px 0 0 0px;
@@ -1199,6 +1201,7 @@ body {
   }
   .whyWe__span1 {
     padding-bottom: 46px;
+    font-size: 15px;
   }
   .form1 {
     width: 100%;
